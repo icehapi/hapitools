@@ -12,7 +12,7 @@ pip uninstall hapitools
 ```bash
 loguru
 pymysql
-dbutils
+dbmanager
 ```
 
 ## Table of Contents
